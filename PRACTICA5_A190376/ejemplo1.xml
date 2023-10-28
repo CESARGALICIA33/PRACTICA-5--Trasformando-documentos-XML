@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/jcgal/Documents/9no%20Semestre/SERVICIOS%20WEB/ACTIVIDADES/PRACTICA5_A190376/ejemplo1.xsl"?>
+<ciudades>
+
+<ciudad>
+<nombre>Tuxtla Gutierrez</nombre>
+<habitantes>500000</habitantes>
+</ciudad>
+
+<ciudad>
+<nombre>Chiapa de corzo</nombre>
+<habitantes>150000</habitantes>
+</ciudad>
+
+<ciudad>
+<nombre>San Cristobal de las casas</nombre>
+<habitantes>235000</habitantes>
+</ciudad>
+
+</ciudades>

@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/jcgal/Documents/9no%20Semestre/SERVICIOS%20WEB/ACTIVIDADES/PRACTICA5_A190376/Libros.xsl"?>
+<libros>
+
+<libro>
+<titulo>Juego de tronos</titulo>
+<autor>George R.R. Martin</autor>
+<genero>Fantasía épica</genero>
+<anio>1996</anio>
+<editorial>Bantam Spectra</editorial>
+</libro>
+
+<libro>
+<titulo>El nombre del viento</titulo>
+<autor>Patrick Rothfuss</autor>
+<genero>Fantasía</genero>
+<año>2007</año>
+<editorial>DAW Books</editorial>
+</libro>
+
+<libro>
+<titulo>Cien años de soledad</titulo>
+<autor>Gabriel García Márquez</autor>
+<genero>Realismo mágico</genero>
+<año>1967</año>
+<editorial>Catafixia Ediciones</editorial>
+</libro>
+
+<libro>
+<titulo>El código Da Vinci</titulo>
+<autor>Dan Brown</autor>
+<genero>Ficción de misterio</genero>
+<año>2003</año>
+<editorial>Random House</editorial>
+</libro>
+
+<libro>
+<titulo>Harry Potter y la piedra filosofal</titulo>
+<autor>J.K. Rowling</autor>
+<genero>Fantasía</genero>
+<año>1997</año>
+<editorial>Scholastic</editorial>
+</libro>
+
+<libro>
+<titulo>Orgullo y prejuicio</titulo>
+<autor>Jane Austen</autor>
+<genero>Novela romántica</genero>
+<año>1813</año>
+<editorial>Egerton, Whitehall</editorial>
+</libro>
+
+<libro>
+<titulo>El señor de los anillos: La comunidad del anillo</titulo>
+<autor>J.R.R. Tolkien</autor>
+<genero>Fantasía épica</genero>
+<año>1954</año>
+<editorial>George Allen and Unwin</editorial>
+</libro>
+
+</libros>
